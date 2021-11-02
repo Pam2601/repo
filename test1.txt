@@ -1,10 +1,1 @@
- Volume in drive C is BOOTCAMP
- Volume Serial Number is 0246-9FF7
-
- Directory of C:\Users\apple\Desktop\projectt
-
-02-11-2021  18:16    <DIR>          .
-02-11-2021  18:16    <DIR>          ..
-02-11-2021  18:16                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  14,649,241,600 bytes free
+ change 1
